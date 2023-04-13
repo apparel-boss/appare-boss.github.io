@@ -208,7 +208,7 @@ h2 {
 
 .word-cycle:after {
 	content: "";
-  font-size: medium;
+  font-size: 20px;
 	animation: word-cycle 60s ease infinite alternate;
 }
 
